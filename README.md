@@ -1,3 +1,6 @@
+<img width="408" height="407" alt="image" src="https://github.com/user-attachments/assets/b2db826d-8103-4e43-bdbd-81ac0ec7292e" />
+
+
 # QtScrcpy 
 
 [![Financial Contributors to Open Collective](https://opencollective.com/QtScrcpy/all/badge.svg?label=financial+contributors)](https://opencollective.com/QtScrcpy)
